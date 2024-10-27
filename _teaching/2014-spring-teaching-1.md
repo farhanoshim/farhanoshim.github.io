@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Associate: CICS 256 - MAKE: Introduction to Physical Computing"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Massachusetts Amherst, College of Information and Computer Sciences"
+date: Spring 2023, Fall 2023, and Spring 2023
+location: "Amherst, Massachusetts"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
