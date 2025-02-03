@@ -15,9 +15,9 @@ My other passions include photography, hiking, and spending time with my toddler
 
 
 ### News
-- Our paper "Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators" got accepted in 2025 IEEE Conference on Robotics and Automation, ICRA 2025.
-- Delighted to share that I was awarded the 2025 Dr. Dave Lomet Graduate Scholarship at UMass Amherst.
-- Our paper "NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data" got accepted in the International Conference on Intelligent Robots and Systems, IEEE IROS 2024.
+- Our paper *"Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators"* got accepted in 2025 IEEE Conference on Robotics and Automation, ICRA 2025.
+- Delighted to share that I was awarded the *2025 Dr. Dave Lomet Graduate Scholarship* at UMass Amherst.
+- Our paper *"NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data"* got accepted in the International Conference on Intelligent Robots and Systems, IEEE IROS 2024.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
