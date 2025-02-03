@@ -1,7 +1,7 @@
 ---
 title: "MechanoBeat: Monitoring Interactions with Everyday Objects using 3D Printed Harmonic Oscillators and Ultra-Wideband Radar"
 collection: publications
-category: conferences
+category: Conference Papers
 permalink: /publication/MechanoBeat
 excerpt: 'In this paper we present MechanoBeat, a 3D printed mechanical tag that oscillates at a unique frequency upon user interaction. With the help of an ultra-wideband (UWB) radar array, MechanoBeat can unobtrusively monitor interactions with both stationary and mobile objects. MechanoBeat consists of small, scalable, and easy-to-install tags that do not require any batteries, silicon chips, or electronic components. Tags can be produced using commodity desktop 3D printers with cheap materials. We develop an efficient signal processing and deep learning method to locate and identify tags using only the signals reflected from the tag vibrations. MechanoBeat is capable of detecting simultaneous interactions with high accuracy, even in noisy environments. We leverage UWB radar signals' high penetration property to sense interactions behind walls in a non-line-of-sight (NLOS) scenario. A number of applications using MechanoBeat have been explored and the results have been presented in the paper.'
 date: 2020-10-20
