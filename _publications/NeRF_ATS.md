@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publications/NeRF_ATS
 date: 2024-10-14
-venue: 'the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024) '
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) '
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2410.10085'
 citation: 'Oshim, Md Farhan Tasnim, et al. "NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data." arXiv preprint arXiv:2410.10085 (2024).'
