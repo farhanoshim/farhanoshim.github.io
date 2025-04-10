@@ -8,5 +8,5 @@ date: 2020-10-20
 venue: 'UIST 20: Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3379337.3415902'
 videourl: 'https://youtu.be/ZXA_eKm_bR8?si=22mnOPhIftjlQZkS'
-image: '/images/nerfats.png'
+image: '/images/mechanobeat.png'
 ---
