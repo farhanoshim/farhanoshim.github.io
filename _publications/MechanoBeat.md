@@ -1,7 +1,7 @@
 ---
 title: "MechanoBeat: Monitoring Interactions with Everyday Objects using 3D Printed Harmonic Oscillators and Ultra-Wideband Radar"
 collection: publications
-permalink: /publication/mechanobeat
+permalink: 
 excerpt: 
 authors: <ins>Md Farhan Tasnim Oshim</ins>, Julian Killingback, Dave Follette, Huaishu Peng, Tauhidur Rahman
 date: 2020-10-20
