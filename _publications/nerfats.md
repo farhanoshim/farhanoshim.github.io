@@ -1,7 +1,7 @@
 ---
 title: "NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data"
 collection: publications
-permalink: /publication/NeRF_ATS
+permalink: /publication/nerfats
 excerpt: 
 authors: <ins>Md Farhan Tasnim Oshim</ins>, Albert Reed, Suren Jayasuriya, Tauhidur Rahman
 date: 2024-10-14
