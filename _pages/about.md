@@ -13,7 +13,7 @@ Beyond academia, I have held research roles at industry leaders like Tesla, Qual
 
 My other passions include photography, hiking, and spending time with my toddler. Feel free to explore my publications and reach out if you’d like to connect or discuss collaborative projects!
 
-**I’m seeking Research Scientist or Engineer positions, focusing on contactless sensing, AI-driven perception, radar signal processing and imaging, and machine learning for healthcare, human–computer, or human–robot interaction. I am based in the US, willing to relocate anywhere in the US, and have unlimited work authorization.**
+**I’m on the job market - seeking Research Scientist or Engineer positions, focusing on contactless sensing, AI-driven perception, radar signal processing and imaging, and machine learning for healthcare, human–computer, or human–robot interaction. I am based in the US, willing to relocate anywhere in the US, and have unlimited work authorization.**
 
 ### News
 - Our paper *"Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators"* got accepted in 2025 IEEE Conference on Robotics and Automation, ICRA 2025.
