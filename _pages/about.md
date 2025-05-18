@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+\textbf{I am on the job market - seeking Research Scientist or Engineer roles-across academia and industry-focused on multimodal sensing, AI-driven perception, radar signal processing, embedded machine learning, privacy-aware healthcare technologies, radar imaging, robotics, and human-robot interaction.} 
+
 I am Md Farhan Tasnim Oshim, a PhD candidate in Computer Science at UMass Amherst, specializing in HCI through radar sensing, applied machine learning, and autonomous systems. With extensive experience in contactless sensing, signal processing, and AI-driven perception, I focus on leveraging advanced radar techniques to enable impactful applications in healthcare and human-object interaction. 
 
 Beyond academia, I have held research roles at industry leaders like Tesla, Qualcomm, and Bosch, where I developed real-time solutions for radar-based gesture recognition, sensor fusion, and passive entry systems. Whether designing complex radar algorithms or implementing neural networks for critical perception tasks, my goal is to drive research forward, bridging real-world challenges and advanced technology.
