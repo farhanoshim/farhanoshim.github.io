@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate Course"
 permalink:
 venue: "University of Massachusetts Amherst, College of Information and Computer Sciences"
-date: Spring 2020 and 2022, 
+date: 2022-09-09 
 location: "Amherst, Massachusetts"
 ---
