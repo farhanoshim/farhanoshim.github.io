@@ -1,5 +1,5 @@
 ---
-title: "Teaching Associate: CICS 256 - MAKE: Introduction to Physical Computing"
+title: "Teaching Associate: CICS 256 - Make: A Hands-on Introduction to Physical Computing"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/TO_CICS256
