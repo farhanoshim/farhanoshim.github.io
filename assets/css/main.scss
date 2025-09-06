@@ -42,7 +42,12 @@
 
 
 /* Custom override: make publications page full width */
-.page__content {
+/* Make publications page full width */
+.page__content,
+.container,
+.archive__item {
   max-width: 100% !important;
   width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 1rem !important; /* optional horizontal padding */
 }
