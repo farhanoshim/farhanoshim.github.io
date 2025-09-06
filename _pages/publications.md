@@ -12,8 +12,9 @@ You can also find my articles on my
      target="_blank" 
      rel="noopener noreferrer">
      Google Scholar
-  </a>
-</u> profile.
+   </a>
+</u> 
+profile.
 
 {% include base_path %}
 
