@@ -40,18 +40,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Expand the publications archive page */
-body.page-publications .page__content {
-    max-width: 95% !important;  /* nearly full width */
-    width: 95% !important;
-    padding: 0 2rem !important; /* optional side padding */
-  }
-  
-  body.page-publications .archive__item {
-    flex-grow: 1;
-    width: 100% !important;
-    margin: 0 auto !important;
-  }
-  
+/* Publications page: expand width */
+.archive.archive-publications,
+.archive.archive-publications .page__content,
+.archive.archive-publications .container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 2rem !important;
+}
+
+.archive.archive-publications .archive__item {
+  width: 100% !important;
+  flex-grow: 1;
+  margin: 0 !important;
+}
+
 
 
