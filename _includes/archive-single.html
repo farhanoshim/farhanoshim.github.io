@@ -80,9 +80,10 @@
       <a href=" {{ post.codeurl }} "><u>Code</u></a>
     {% endif %}
 
-    {% if post.pageurl %}
-      <a href=" {{ post.pageurl }} "><u>Page</u></a>
+    {% elsif post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer"><u>Paper</u></a>
     {% endif %}
+
 
     {% if post.videourl %}
       <a href=" {{ post.videourl }} "><u>Video</u></a>
