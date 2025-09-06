@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Custom override: make publications page full width */
+.page__content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
