@@ -40,23 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.archive__item {
-    width: 100%;
-    max-width: 100%;
-    margin: 0 auto;
+/* Expand the publications archive page */
+body.page-publications .page__content {
+    max-width: 95% !important;  /* nearly full width */
+    width: 95% !important;
+    padding: 0 2rem !important; /* optional side padding */
   }
   
-  .archive__item-title {
-    font-size: 1.5rem;
-    font-weight: bold;
+  body.page-publications .archive__item {
+    flex-grow: 1;
+    width: 100% !important;
+    margin: 0 auto !important;
   }
   
-  .archive__item-authors,
-  .archive__item-excerpt {
-    font-size: 1rem;
-    line-height: 1.6;
-  }
-  
-
 
 
