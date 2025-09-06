@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: splash
 title: "Publications"
 permalink: /publications/
 author_profile: true
-classes: wide
 ---
 
 You can also find my articles on 
