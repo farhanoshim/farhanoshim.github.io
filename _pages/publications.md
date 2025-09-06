@@ -1,11 +1,19 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=JjF9FRwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can also find my articles on 
+<u>
+  <a href="https://scholar.google.com/citations?user=JjF9FRwAAAAJ&hl=en" 
+     target="_blank" 
+     rel="noopener noreferrer">
+     my Google Scholar profile
+  </a>
+</u>.
 
 {% include base_path %}
 
