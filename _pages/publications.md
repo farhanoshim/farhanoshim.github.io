@@ -10,9 +10,9 @@ You can also find my articles on my
   <a href="https://scholar.google.com/citations?user=JjF9FRwAAAAJ&hl=en" 
      target="_blank" 
      rel="noopener noreferrer">
-     Google Scholar 
+     Google Scholar profile
   </a>
-</u> profile.
+</u>.
 
 {% include base_path %}
 
