@@ -18,7 +18,7 @@ My other passions include photography, hiking, and spending time with my toddler
 ### News
 - I will be teaching <a href="https://sites.google.com/view/cics256/home" target="_blank">CICS 256: Make - An Introduction to Physical Computing</a> at UMass Amherst this Fall (2025)! This will be my fourth time teaching the course, and I’m looking forward to guiding students through hands-on learning at the intersection of hardware, coding, and creativity.
 - Our paper *"Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators"* got accepted in 2025 IEEE Conference on Robotics and Automation, ICRA 2025.
-- Delighted to share that I was awarded the *2025 Dr. Dave Lomet Graduate Scholarship* at UMass Amherst.
+- Delighted to share that I was awarded the *2025 Dr. Dave Lomet Graduate Scholarship for Systems Research* at UMass Amherst.
 - Our paper *"NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data"* got accepted in the International Conference on Intelligent Robots and Systems, IEEE IROS 2024.
 
 
