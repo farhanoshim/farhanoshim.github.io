@@ -13,12 +13,14 @@ Beyond academia, I have held research roles at industry leaders like Tesla, Qual
 
 My other passions include photography, hiking, and spending time with my toddler. Feel free to explore my publications and reach out if you’d like to connect or discuss collaborative projects!
 
-**I am on the academic job market, seeking tenure-track faculty or research-focused positions in Computer Science, Electrical & Computer Engineering, or related fields. My research centers on contactless sensing, radar signal processing and imaging, and AI-driven perception systems for healthcare, human-computer interaction, and human-robot interaction. I am based in the US, hold unlimited work authorization, and am open to opportunities nationwide.**
 <!--
+**I am on the academic job market, seeking tenure-track faculty or research-focused positions in Computer Science, Electrical & Computer Engineering, or related fields. My research centers on contactless sensing, radar signal processing and imaging, and AI-driven perception systems for healthcare, human-computer interaction, and human-robot interaction. I am based in the US, hold unlimited work authorization, and am open to opportunities nationwide.**
+
 **I’m on the job market - seeking Research Scientist or Engineer positions, focusing on contactless sensing, AI-driven perception, radar signal processing and imaging, and machine learning for healthcare, human–computer, or human–robot interaction. I am based in the US, willing to relocate anywhere in the US, and have unlimited work authorization.**-->
 
 ### News
-- I will be teaching <a href="https://sites.google.com/view/cics256/home" target="_blank">CICS 256: Make - An Introduction to Physical Computing</a> at UMass Amherst this Fall (2025)! This will be my fourth time teaching the course, and I’m looking forward to guiding students through hands-on learning at the intersection of hardware, coding, and creativity.
+- I will be teaching 'COMSC 243PC: Physical Computing Workshop' at Mount Holyoke College this Spring 2026!
+- I am teaching <a href="https://sites.google.com/view/cics256/home" target="_blank">CICS 256: Make - An Introduction to Physical Computing</a> at UMass Amherst this Fall (2025)! This will be my fourth time teaching the course.
 - Our paper *"Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators"* got accepted in 2025 IEEE Conference on Robotics and Automation, ICRA 2025.
 - Delighted to share that I was awarded the *2025 Dr. Dave Lomet Graduate Scholarship for Systems Research* at UMass Amherst.
 - Our paper *"NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data"* got accepted in the International Conference on Intelligent Robots and Systems, IEEE IROS 2024.
