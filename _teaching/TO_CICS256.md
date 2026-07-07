@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/TO_CICS256
 venue: "University of Massachusetts Amherst, College of Information and Computer Sciences"
-date: Fall 2025
+date: 2025-09-01
 location: "Amherst, Massachusetts"
 ---
