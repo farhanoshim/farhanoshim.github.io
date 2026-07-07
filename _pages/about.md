@@ -6,12 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Md Farhan Tasnim Oshim, an Assistant Professor of Computer Science at Bard College. I received my Ph.D. in Computer Science from the University of Massachusetts Amherst, where my research focused on human-computer interaction through radar sensing, applied machine learning, and autonomous systems.
 
+My research lies at the intersection of contactless sensing, signal processing, applied machine learning, AI-driven perception, and intelligent interactive systems. I develop advanced radar-based perception techniques for applications in healthcare, human-object interaction, and autonomous systems, with the goal of creating robust, real-world sensing technologies that bridge cutting-edge research and practical impact.
+
+Prior to joining Bard College, I held research positions at industry leaders, including Tesla, Qualcomm, and Bosch, where I worked on real-time radar perception, gesture recognition, sensor fusion, and passive entry systems. Whether designing complex radar algorithms or implementing neural networks for critical perception tasks, my goal is to advance AI-driven sensing technologies that bridge real-world challenges and cutting-edge research.
+
+Outside of research and teaching, I enjoy photography, hiking, and spending time with my family. Feel free to explore my publications and reach out if you are interested in collaborating or discussing research opportunities!
+
+<!--
 I am Md Farhan Tasnim Oshim, a PhD candidate in Computer Science at UMass Amherst, specializing in HCI through radar sensing, applied machine learning, and autonomous systems. With extensive experience in contactless sensing, signal processing, and AI-driven perception, I focus on leveraging advanced radar techniques to enable impactful applications in healthcare and human-object interaction. 
 
 Beyond academia, I have held research roles at industry leaders like Tesla, Qualcomm, and Bosch, where I developed real-time solutions for radar-based gesture recognition, sensor fusion, and passive entry systems. Whether designing complex radar algorithms or implementing neural networks for critical perception tasks, my goal is to drive research forward, bridging real-world challenges and advanced technology.
 
 My other passions include photography, hiking, and spending time with my toddler. Feel free to explore my publications and reach out if you’d like to connect or discuss collaborative projects!
+-->
 
 <!--
 **I am on the academic job market, seeking tenure-track faculty or research-focused positions in Computer Science, Electrical & Computer Engineering, or related fields. My research centers on contactless sensing, radar signal processing and imaging, and AI-driven perception systems for healthcare, human-computer interaction, and human-robot interaction. I am based in the US, hold unlimited work authorization, and am open to opportunities nationwide.**
@@ -19,7 +28,11 @@ My other passions include photography, hiking, and spending time with my toddler
 **I’m on the job market - seeking Research Scientist or Engineer positions, focusing on contactless sensing, AI-driven perception, radar signal processing and imaging, and machine learning for healthcare, human–computer, or human–robot interaction. I am based in the US, willing to relocate anywhere in the US, and have unlimited work authorization.**-->
 
 ### News
-- I will be teaching 'COMSC 243PC: Physical Computing Workshop' at Mount Holyoke College this Spring 2026!
+### News
+
+- Joined **Bard College** as a **Tenure-Track Assistant Professor of Computer Science** in **July 2026**.
+- Successfully defended my Ph.D. dissertation, *"Towards High-Fidelity Motion Characterization using Radar Vibrometry: Applications in Vital Sign Monitoring and Human-Object Interaction"*, on **April 29, 2026**.
+- I am teaching 'COMSC 243PC: Physical Computing Workshop' at Mount Holyoke College this Spring 2026!
 - I am teaching <a href="https://sites.google.com/view/cics256/home" target="_blank">CICS 256: Make - An Introduction to Physical Computing</a> at UMass Amherst this Fall (2025)! This will be my fourth time teaching the course.
 - Our paper *"Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators"* got accepted in 2025 IEEE Conference on Robotics and Automation, ICRA 2025.
 - Delighted to share that I was awarded the *2025 Dr. Dave Lomet Graduate Scholarship for Systems Research* at UMass Amherst.
