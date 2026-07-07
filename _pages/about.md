@@ -31,7 +31,7 @@ My other passions include photography, hiking, and spending time with my toddler
 ### News
 
 - Excited to join Bard College as a Tenure-Track Assistant Professor of Computer Science in July 2026.
-- Successfully defended my Ph.D. dissertation, "Towards High-Fidelity Motion Characterization using Radar Vibrometry: Applications in Vital Sign Monitoring and Human-Object Interaction", on April 29, 2026.
+- Successfully defended my Ph.D. dissertation, *"Towards High-Fidelity Motion Characterization using Radar Vibrometry: Applications in Vital Sign Monitoring and Human-Object Interaction"*, on April 29, 2026.
 - I am teaching 'COMSC 243PC: Physical Computing Workshop' at Mount Holyoke College this Spring 2026!
 - I am teaching <a href="https://sites.google.com/view/cics256/home" target="_blank">CICS 256: Make - An Introduction to Physical Computing</a> at UMass Amherst this Fall (2025)! This will be my fourth time teaching the course.
 - Our paper *"Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators"* got accepted in 2025 IEEE Conference on Robotics and Automation, ICRA 2025.
