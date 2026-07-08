@@ -10,7 +10,7 @@ I am Md Farhan Tasnim Oshim, an Assistant Professor of Computer Science at Bard 
 
 My research lies at the intersection of contactless sensing, signal processing, applied machine learning, AI-driven perception, and intelligent interactive systems. I develop advanced radar-based perception techniques for applications in healthcare, human-object interaction, and autonomous systems, with the goal of creating robust, real-world sensing technologies that bridge cutting-edge research and practical impact.
 
-Prior to joining Bard College, I held research positions at industry leaders, including Tesla, Qualcomm, and Bosch, where I worked on real-time radar perception, gesture recognition, sensor fusion, and passive entry systems. Whether designing complex radar algorithms or implementing neural networks for critical perception tasks, my goal is to advance AI-driven sensing technologies that bridge real-world challenges and cutting-edge research.
+In addition to my academic research, I completed industry research internships at Tesla, Qualcomm, and Bosch, where I developed solutions for radar perception, gesture recognition, sensor fusion, and passive entry systems. Working across academia and industry has shaped my research on AI-driven sensing technologies with real-world impact.
 
 Outside of research and teaching, I enjoy photography, hiking, and spending time with my family. Feel free to explore my publications and reach out if you are interested in collaborating or discussing research opportunities!
 
@@ -27,7 +27,6 @@ My other passions include photography, hiking, and spending time with my toddler
 
 **I’m on the job market - seeking Research Scientist or Engineer positions, focusing on contactless sensing, AI-driven perception, radar signal processing and imaging, and machine learning for healthcare, human–computer, or human–robot interaction. I am based in the US, willing to relocate anywhere in the US, and have unlimited work authorization.**-->
 
-### News
 ### News
 
 - Excited to join Bard College as a Tenure-Track Assistant Professor of Computer Science in July 2026.
